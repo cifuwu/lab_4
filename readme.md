@@ -1,6 +1,6 @@
 # lab 4 - sistemas operativos
 
-###### **nombres:**
+### nombres:
 
 Nicolás Vargas Pavez - 201904567-9 Sebastián Cifuentes - 201844528-2
 
