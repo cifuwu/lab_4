@@ -8,5 +8,5 @@
 para ejecutar, simplemente ejecute en la terminal:
 
 ```shell
-make .
+make
 ```
